@@ -44,9 +44,7 @@ class App extends Component {
 		return (
 			<div className="App">
 				<header className="App-header">
-					<h1>
-						<i>Monsters Rolodox</i>
-					</h1>
+					<h1 className="App-title">Monsters Rolodox</h1>
 
 					<SearchBox
 						placeholder="search-monsters"

@@ -9,11 +9,17 @@ body {
 	background: linear-gradient(
 		to right,
 		rgba(7, 27, 82, 1) 40%,
-		rgba(0, 128, 128, 1) 80%
+		rgba(0, 128, 128, 1) 70%
 	);
 	text-align: center;
 }
 
 .monster-search-box {
 	border-radius: 5%;
+}
+
+.App-title {
+	font-family: "Bigelow Rules", cursive;
+	font-size: 80px;
+	color: rgb(50, 232, 229);
 }
